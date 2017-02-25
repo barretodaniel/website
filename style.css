@@ -4013,5 +4013,5 @@ label.panel-block {
   background-color: whitesmoke;
   padding: 3rem 1.5rem 6rem; }
 
-html, body {
-  height: 100%; }
+.expand {
+  width: 100%; }
