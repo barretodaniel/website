@@ -1,0 +1,12 @@
+{
+  "name": "barretodaniel.github.io",
+  "version": "1.0.0",
+  "description": "Personal Home Page",
+  "main": "index.js",
+  "repository": "https://github.com/barretodaniel/barretodaniel.github.io",
+  "author": "Daniel Barreto <daniel.barreto717@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.3.1"
+  }
+}
