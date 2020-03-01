@@ -11,7 +11,7 @@ export default () => (
       <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png" />
     </Head>
     <div className="max-w-screen-xl mx-auto lg:h-screen">
-      <div className="relative z-10 lg:h-screen pb-8 bg-white sm:pb-16 md:pb-20 xl:max-w-2xl lg:max-w-lg lg:w-full lg:pb-28 xl:pb-32">
+      <div className="relative z-10 lg:h-screen pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
         <div className="pt-6 px-4 sm:px-6 lg:px-8">
           <Header />
         </div>
