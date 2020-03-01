@@ -6,7 +6,20 @@
   "repository": "https://github.com/barretodaniel/barretodaniel.github.io",
   "author": "Daniel Barreto <daniel.barreto717@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
-    "bulma": "^0.3.1"
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "tailwindcss": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.6",
+    "@types/react": "^16.9.23",
+    "typescript": "^3.8.2"
   }
 }
