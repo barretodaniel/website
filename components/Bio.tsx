@@ -1,6 +1,6 @@
 export default () => {
   return (
-    <div className="sm:text-center lg:text-left">
+    <div className="relative z-10 sm:text-center lg:text-left">
       <h1 className="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
         Daniel Barreto
       </h1>
