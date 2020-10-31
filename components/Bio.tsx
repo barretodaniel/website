@@ -8,7 +8,7 @@ export default () => {
         Software Engineer in Miami
       </h2>
       <p className="mt-3 text-base text-gray-700 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-        Hey there! I am a UI Developer at Norwegian Cruise Lines. When I have free time, I'm usually
+        Hey there! I am a Software Engineer at General Electric. When I have free time, I'm usually
         playing video games, watching sports, or working on side projects.
       </p>
     </div>
